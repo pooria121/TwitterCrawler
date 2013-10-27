@@ -8,9 +8,9 @@ provided by Twitter into Mongodb database
 Requirements
 ------------
 This code uses following modules:
-      * asdasdsa
-      * asdada
-      * sdsad
+* asdasdsa
+* asdada
+* sdsad
 
 How to Use
 ----------
