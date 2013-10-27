@@ -29,12 +29,12 @@ How to Use
         
 For searching some keywords:
 
-  Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --search topic1 topic2 topic3
+      Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --search topic1 topic2 topic3
   
 For tracking some keywords like using stream API:
 
-  Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --track topic1 topic2 topic3
+      Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --track topic1 topic2 topic3
   
 For sampling recent tweets:
 
-  Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --sample
+      Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --sample
