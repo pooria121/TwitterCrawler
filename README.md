@@ -7,10 +7,14 @@ provided by Twitter into Mongodb database
 
 Requirements
 ------------
-This code uses following modules:
-* asdasdsa
-* asdada
-* sdsad
+This code uses following modules which are need to be installed:
+* tweepy: inorder to make queries against Twitter's API.
+* pymongo: for working with mongodb database.
+
+You can install these modules using pip (if you have pip installed):
+
+      pip install tweepy
+      pip install pymongo
 
 How to Use
 ----------
