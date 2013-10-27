@@ -6,11 +6,11 @@ provided by Twitter into Mongodb database
 
 
 Requirements
-============
+------------
 
 
 How to Use
-==========
+----------
 Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py -h
       usage: twitter_crawler.py [-h] [--search] [--sample] [--filter] Q [Q ...]
       
