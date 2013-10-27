@@ -16,6 +16,10 @@ You can install these modules using pip (if you have pip installed):
       pip install tweepy
       pip install pymongo
 
+Make sure that mongodb is running on your machine. Visit
+http://docs.mongodb.org/manual/installation/ for more information on installing
+and running mongodb on your machine.
+
 How to Use
 ----------
       Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py -h
