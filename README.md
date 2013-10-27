@@ -11,7 +11,7 @@ Requirements
 
 How to Use
 ----------
-Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py -h
+      Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py -h
       usage: twitter_crawler.py [-h] [--search] [--sample] [--filter] Q [Q ...]
       
       Download tweets from Twitter.com
@@ -28,10 +28,13 @@ Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py -h
         
         
 For searching some keywords:
+
   Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --search topic1 topic2 topic3
   
 For tracking some keywords like using stream API:
+
   Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --track topic1 topic2 topic3
   
 For sampling recent tweets:
+
   Poorias-iMac:TwitterCrawler pooria$ python twitter_crawler.py --sample
